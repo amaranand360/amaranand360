@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaranand360&label=Profile%20views&color=0e75b6&style=flat" alt="amaranand360" /> </p>
 
-- 🌱 I’m currently learning **React and Android Development **
+- 🌱 I’m currently learning **Next-js and flutter app development **
 
 - 💬 Ask me about **React, Java Script, DSA**
 
