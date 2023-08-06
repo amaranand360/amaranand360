@@ -9,13 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaranand360&label=Profile%20views&color=0e75b6&style=flat" alt="amaranand360" /> </p>
 
-- 🌱 I’m currently learning **Next-js and flutter app development **
+- 🌱 I’m currently learning **Next-js flutter and React-native app development **
 
 - 💬 Ask me about **React, Java Script, DSA**
 
 - 📫 How to reach me **amar.anand0030@gmail.com**
 
-- ⚡ Fun fact **I think I am a creative person.**
+- ⚡ Fun fact **I think I am Adventurous!!!.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
