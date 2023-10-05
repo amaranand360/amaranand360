@@ -1,7 +1,7 @@
 
 <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Coding" >
 <h1 align="center">Hi 👋, I'm Amar kumar</h1>
-<h3 align="center"> 👨‍💻A passionate Web=App Developer </h3>
+<h3 align="center"> 👨‍💻A passionate Web & App Developer </h3>
 <h3 align="center"> 💻Learning new tech skills to create innovative projects.</h3>
 <img align="right"  width="400"src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="Coding">
 
