@@ -1,5 +1,4 @@
 
-<img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Coding" >
 <h1 align="center">Hi 👋, I'm Amar kumar</h1>
 <h3 align="center"> 👨‍💻Enthusiastic Software Developer </h3>
 <h3 align="center"> 💻 Constantly acquiring new tech skills to drive innovation in project development.</h3>
