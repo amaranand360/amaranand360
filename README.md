@@ -11,7 +11,7 @@
 
 - 💬 Feel free to engage with me on topics related to **React, JavaScript, TypeScript**, and Data Structures & Algorithms.
 
-- 📫 How to reach me **amaranand806@gmail.com**
+- 📫 How to reach me **anbo30@gmail.com**
 
 - ⚡ Fun fact: I thrive on the thrill of adventure, whether it's exploring **new technologies** or embarking on exciting challenges! 🚀
 
