@@ -38,3 +38,35 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amaranand360&show_icons=true&locale=en" alt="amaranand360" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amaranand360&" alt="amaranand360" /></p>
+
+
+
+
+👨‍💻 PROFILE SUMMARY  
+Full Stack Developer with hands-on experience in building scalable web and mobile applications using React.js, Node.js, and Flutter. Strong background in backend development, cloud deployments (AWS, Docker), and building robust REST APIs. Known for independently owning features end-to-end—from design to production. Passionate about creating real-world solutions and improving performance at scale.
+
+---
+
+💻 TECHNICAL SKILLS  
+Frontend: React.js, Next.js, React Native, Flutter, TypeScript, HTML5, CSS3, Tailwind CSS  
+Backend: Node.js, Express.js, Python, Django, REST APIs  
+Databases: MongoDB, Prisma, Firebase Firestore, PostgreSQL, MySQL, AWS S3  
+DevOps & Tools: Git, Docker, AWS EC2, PM2, Postman, Nginx, CI/CD, Vercel, GoDaddy  
+Languages: JavaScript, TypeScript, Python, C, Java  
+
+---
+
+🎓 EDUCATION  
+B.Tech in Computer Science and Engineering  
+Dayananda Sagar University, Bangalore | 2021 – 2025  
+
+Relevant Coursework:  
+Data Structures and Algorithms, OOP, DBMS, Operating Systems, Full-Stack Development, Mobile App Development, Machine Learning  
+
+---
+
+
+📨 CONTACT  
+Email: aknbo30@gmail.com | Phone: +91 82927 72484  
+Portfolio: https://amarkumar.vercel.app/  
+
